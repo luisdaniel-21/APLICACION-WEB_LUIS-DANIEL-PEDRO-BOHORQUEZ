@@ -1,0 +1,59 @@
+body{
+
+    background: url(../img/561.jpg) no-repeat center top;
+    background-size: cover;
+    font-family: sans-serif;
+    height: 100vh;
+ 
+}
+
+.container__add{
+    width: 80%;
+    margin: 40px auto;
+}
+.container__title{
+    margin: 0;
+    padding: 10px;
+    background: rgba(49, 139, 132, 0.692);
+    color: white;
+    font-size: 2.0em;
+    text-align: center;
+
+}
+.container__form{
+    background: white;
+    box-shadow: 0 0 60px #333;
+    padding: 75px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.container__label{
+    font-size: 1.3em;
+    width: 48%;
+}
+.container__input{
+    width: 45%;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    font-size: 1em;
+    padding: 5px;
+}
+.container__submit{
+    background: rgba(45, 146, 107, 0.616);
+    color: rgb(255, 255, 255);
+    border: none;
+    padding: 10px;
+    margin: 15px auto;
+    width: 119px;
+    font-size: 1.1em;
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+}
+
+.title__edit{
+    position: absolute;
+    right: 8%;
+    color:white;
+    text-decoration: none;
+}

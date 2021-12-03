@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<VENTAS>
+  <ventas>
+    <producto>Tenis Para Correr</producto>
+    <cantidad>3</cantidad>
+    <precio>1000</precio>
+    <total>3000</total>
+  </ventas>
+  <ventas>
+    <producto>Tacos De Futbol</producto>
+    <cantidad>1</cantidad>
+    <precio>5000</precio>
+    <total>5000</total>
+  </ventas>
+  <ventas>
+    <producto>Tenis Para Nieve</producto>
+    <cantidad>3</cantidad>
+    <precio>2000</precio>
+    <total>6000</total>
+  </ventas>
+  <ventas>
+    <producto>Playera Para Futbol</producto>
+    <cantidad>5</cantidad>
+    <precio>500</precio>
+    <total>2500</total>
+  </ventas>
+</VENTAS>
